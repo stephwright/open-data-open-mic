@@ -1,5 +1,7 @@
 # OPEN DATA OPEN MIC  :microphone:
 
+[![Join the chat at https://gitter.im/stephwright/open-data-open-mic](https://badges.gitter.im/stephwright/open-data-open-mic.svg)](https://gitter.im/stephwright/open-data-open-mic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository was created to help us bring an idea from a workshop into reality.
 
 ####THE CHALLENGE
