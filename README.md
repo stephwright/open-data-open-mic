@@ -45,7 +45,7 @@ Because of the workshop, this idea is focused on doing this at academic conferen
 * Are you a conference organizer that would be willing to host this?  
 * Are you a researcher who would be willing to share your open data success story?
 
-We've created [Contributing Guidelines](Contributing.md) to help you get started.
+We've created [Contributing Guidelines](CONTRIBUTING.md) to help you get started.
 
 We are an inclusive group and want this to be a welcoming space.  As such, please read and follow our [Code of Conduct](code_of_conduct.md).
 
